@@ -57,9 +57,10 @@ Si Node ou Git bloque, note le message exact et continue en local sans attendre.
 
 ## Auto-revue finale
 
-- Ce qui s'affiche bien :
-- Ce qui reste fragile au clavier ou à 360 px :
-- Ce que je veux revoir en capsule :
+- Ce qui s'affiche bien : la page est centrée et lisible à 360px comme à 1280px.
+- Ce qui reste fragile au clavier ou à 360 px : un message avec seulement des espaces passe quand même.
+- Ce que je veux revoir en capsule : les largeurs en CSS et les commandes git pull et merge.
+- Prédiction : c'est le TP04 sur le CSS qui me demandera le plus de retravail.
 
 ## Rappel Git prudent
 
