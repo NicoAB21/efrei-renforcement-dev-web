@@ -32,10 +32,10 @@ Note ton avancée après chaque TP. Reste factuel, sans données personnelles. C
 
 ## TP04 — Responsive
 
-- Hypothèse :
-- Action :
-- Résultat :
-- Point non compris, test 360 / 1280 :
+- Hypothèse : je pense qu'un mot trop long serait coupé et qu'on va voir seulement son début.
+- Action : j'ai mis box-sizing border-box sur tous les éléments, remis la marge du body à zéro, donné aux trois conteneurs une largeur souple avec un max de 760px et des marges automatiques, mis le formulaire en flex colonne, ajouté un focus visible et overflow-wrap sur les li.
+- Résultat : en fait le mot débordait et créait un scroll horizontal, rien n'était coupé. Avec overflow-wrap il passe bien à la ligne.
+- Point non compris, test 360 / 1280 : pas de scroll horizontal aux deux largeurs, le champ et le bouton restent entiers et le focus se voit bien au clavier.
 
 ## Commandes essayées
 
