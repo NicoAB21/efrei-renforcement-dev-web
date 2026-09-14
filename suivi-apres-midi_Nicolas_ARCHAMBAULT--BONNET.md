@@ -28,6 +28,15 @@ Recopiez ce bloc autant de fois que nécessaire.
 - Je n'ai pas compris : rien de bloquant
 - Réponse à la question « Dans le suivi » du TP : si on avait mis innerHTML la balise aurait été lue comme du code html et le mot serait apparu en gras
 
+### TP08
+
+- J'ai prédit : rien à prédire
+- Nous avons fait : les deux fonctions : celle pour valider un message et l'autre pour envoyer des réponses précises en fonction de l'input
+- J'ai observé : que si on veut faire un vrai chatbot IA la méthode actuelle serait impossible
+- J'ai compris : qu'il faut bien faire attention aux inputs des users
+- Je n'ai pas compris : rien que je n'ai pas compris
+- Réponse à la question « Dans le suivi » du TP : je crois que on ne peut pas utiliser document dans le code qui tourne sur le serveur car sinon il faudrait que le serveur ait accès tout le temps à tout le contenu du navigateur de l'user
+
 ## Épreuve de l'explication (TP12)
 
 - Ce que je n'ai pas su expliquer :
