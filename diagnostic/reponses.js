@@ -20,11 +20,13 @@ export function extraireActifs(elements) {
   // éléments où active === true et name est une chaîne non vide après trim().
   // Ne pas modifier le tableau d'origine.
   // Exemple : [{name:"Aïcha",active:true},{name:"",active:true},{name:"Bob",active:false}] -> ["Aïcha"].
+
   let result = [];
-  elements.map((element) => {
-    if (element.active && element.name.trim() !== "") {
-      result.push(element.name.trim());
-    }
-  });
+  Array.isArray(elements) &&
+    elements.forEach((element) => {
+      if (element.active === true && element.name.trim() !== "") {
+        result.push(element.name.trim());
+      }
+    });
   return result;
 }
