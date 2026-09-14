@@ -21,10 +21,10 @@ export function extraireActifs(elements) {
   // Ne pas modifier le tableau d'origine.
   // Exemple : [{name:"Aïcha",active:true},{name:"",active:true},{name:"Bob",active:false}] -> ["Aïcha"].
   let result = [];
-  for (let i = 0; i < elements.length; i++) {
-    if (elements[i].active && estValide(elements[i].name)) {
-      result.push(elements[i].name.trim());
+  elements.map((element) => {
+    if (element.active && element.name.trim() !== "") {
+      result.push(element.name.trim());
     }
-  }
+  });
   return result;
 }
