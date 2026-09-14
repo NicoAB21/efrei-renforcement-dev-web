@@ -25,10 +25,10 @@ Note ton avancée après chaque TP. Reste factuel, sans données personnelles. C
 
 ## TP03 — Formulaire
 
-- Hypothèse :
-- Action :
-- Résultat :
-- Point non compris :
+- Hypothèse : je pense qu'appuyer sur Entrée dans le champ fait passer au champ suivant.
+- Action : j'ai ajouté un form#chat-form après la liste, avec un label for, un textarea#message en required et maxlength 280, et un bouton submit. J'ai recopié le fichier app.js fourni.
+- Résultat : Entrée fait juste un saut de ligne dans le champ, c'est Tab qui déplace le focus. L'envoi affiche bien le statut et le footer affiche la version du serveur.
+- Point non compris : rien de bloquant, mais je ne savais pas qu'Entrée ne se comportait pas pareil dans un input et dans un textarea.
 
 ## TP04 — Responsive
 
