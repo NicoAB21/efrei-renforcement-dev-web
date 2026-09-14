@@ -4,17 +4,17 @@ Note ton avancée après chaque TP. Reste factuel, sans données personnelles. C
 
 ## TP00 — Diagnostic
 
-- Hypothèse :
-- Action :
-- Résultat :
+- Hypothèse : je pense que c'est un problème de largeur.
+- Action : j'ai corrigé les balises dans le html, j'ai enlevé les largeurs fixes dans le css et j'ai complété les deux fonctions js.
+- Résultat : la page s'affiche bien, il n'y a plus de scroll horizontal à 360px et les tests js passent.
 - Point non compris :
 
 ## TP01 — Démarrer
 
-- Hypothèse :
-- Action :
-- Résultat :
-- Point non compris :
+- Hypothèse : je pense que ça affiche juste la page index.html sans le statut.
+- Action : j'ai lancé npm start depuis le dossier atelier et j'ai ouvert la page dans le navigateur.
+- Résultat : j'arrive sur la page Cap Web qui me dit que le serveur fonctionne et que le point de départ est prêt.
+- Point non compris : rien de bloquant.
 
 ## TP02 — HTML
 
@@ -49,9 +49,9 @@ git diff
 
 Mes essais :
 
-- Dossier :
-- Commande et résultat :
-- Problème exact si blocage :
+- Dossier : demarrage-etudiants-j1
+- Commande et résultat : node --version me donne la version 22.9.0 alors que le projet en demande une plus récente, mais ça marche quand même. npm start lance bien le serveur.
+- Problème exact si blocage : j'ai fait un git merge qui n'a rien récupéré, en fait j'avais juste oublié de faire un git pull avant.
 
 Si Node ou Git bloque, note le message exact et continue en local sans attendre. Le double-clic sur `diagnostic/index.html` ne remplace pas le serveur pour les modules et l'envoi du TP03.
 
