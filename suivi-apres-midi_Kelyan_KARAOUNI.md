@@ -23,10 +23,19 @@ Recopiez ce bloc autant de fois que nécessaire.
 
 - J'ai prédit : je pense que la page va se recharger à chaque envoi et qu'on va perdre les messages.
 - Nous avons fait : Nicolas a tapé le code et j'ai vérifié les identifiants #message et #messages avec index.html, puis j'ai testé les cas bizarres.
-- J'ai observé : les messages s'empilent bien et la page ne se recharge pas. J'ai essayé avec que des espaces, c'est refusé.
-- J'ai compris : que trim enlève les espaces avant et après, donc un message vide est bloqué.
-- Je n'ai pas compris : je ne vois pas bien la différence entre append et appendChild.
-- Réponse à la question « Dans le suivi » du TP : textContent affiche le texte tel quel, innerHTML aurait lu <b>gras</b> comme du html et le mot serait apparu en gras.
+- J'ai observé : les messages s'empilent bien et la page ne se recharge pas. J'ai essayé avec que des espaces et c'est refusé
+- J'ai compris : que trim enlève les espaces avant et après donc un message vide est bloqué
+- Je n'ai pas compris : je ne vois pas bien la différence entre append et appendChild
+- Réponse à la question « Dans le suivi » du TP : textContent affiche le texte tel quel, innerHTML aurait lu <b>gras</b> comme du html et le mot serait apparu en gras
+
+### TP08
+
+- J'ai prédit : rien à prédire
+- Nous avons fait : le sujet nous dit de faire 2 fonctions donc on les a fait
+- J'ai observé : q'u on pouvait réutiliser la fonction de ce matin
+- J'ai compris : qu'il faut séparer des logiques dans le code et ne pas tout mettre au même endroit
+- Je n'ai pas compris : rien que je n'ai pas compris
+- Réponse à la question « Dans le suivi » du TP : document est utilisable seulement dans le navigateur
 
 ## Épreuve de l'explication (TP12)
 

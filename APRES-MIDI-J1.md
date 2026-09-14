@@ -7,7 +7,7 @@ Ce matin : une interface. Cet après-midi : elle affiche les messages, répond, 
 ## Règles
 
 - **Binôme** : un seul atelier, une seule machine. Un étudiant tape, l'autre vérifie et propose ; **on échange toutes les 20 minutes**.
-- **Noté : votre `suivi-apres-midi.md`**, un par étudiant. Bonus pour l'explication, pas pour la bonne réponse.
+- **Noté : votre `suivi-apres-midi.md`**, un par étudiant, écrit avec vos mots. Bonus pour l'explication, pas pour la bonne réponse. Ce fichier passe dans un détecteur d'IA.
 - **L'IA peut expliquer, pas écrire votre code.** Au TP12, votre binôme vous demandera d'expliquer chaque ligne.
 - **Pas obligé de tout finir.** Deux TP bien compris valent mieux que cinq bâclés. Pendant un mini-cours, on arrête et on écoute.
 
