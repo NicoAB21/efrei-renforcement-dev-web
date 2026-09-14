@@ -18,10 +18,10 @@ Note ton avancée après chaque TP. Reste factuel, sans données personnelles. C
 
 ## TP02 — HTML
 
-- Hypothèse :
-- Action :
-- Résultat :
-- Point non compris :
+- Hypothèse : si on remplace main par div on ne saura plus quel est le contenu unique à la page.
+- Action : j'ai mis le h1 dans un header, ajouté une section avec aria-labelledby et son h2, une liste ul#messages vide avec aria-label et aria-live, et un footer avec un span#version.
+- Résultat : la page s'affiche bien et les repères apparaissent correctement dans l'arbre d'accessibilité.
+- Point non compris : je n'avais pas vu que le rendu changeait aussi, parce que le css cible directement la balise main.
 
 ## TP03 — Formulaire
 
