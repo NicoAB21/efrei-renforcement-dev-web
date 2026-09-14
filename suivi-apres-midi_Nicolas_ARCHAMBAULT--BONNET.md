@@ -12,7 +12,7 @@ Recopiez ce bloc autant de fois que nécessaire.
 
 ### TP06
 
-- J'ai prédit : je pense que l'atelier va démarrer directement vu qu'il marchait déjà ce matin
+- J'ai prédit : je n'ai rien trouvé à prédire
 - Nous avons fait : on a formé le binôme, gardé mon atelier, j'ai lancé npm start depuis atelier et fait le commit depuis la racine
 - J'ai observé : tout a marché du premier coup, le formulaire s'affiche et l'envoi change le statut, la liste reste vide mais c'est normal
 - J'ai compris : qu'un formulaire recharge la page par défaut si on ne le bloque pas
