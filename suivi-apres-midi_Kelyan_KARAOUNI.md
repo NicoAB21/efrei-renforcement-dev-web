@@ -46,6 +46,15 @@ Recopiez ce bloc autant de fois que nécessaire.
 - Je n'ai pas compris : pourquoi on refait tout l'affichage à chaque message au lieu d'ajouter seulement le nouveau
 - Réponse à la question « Dans le suivi » du TP : view.js permet d'afficher les données en hmtml, app.js permet de récupérer les données inscrites par l'utilisateur pour les donner à brain.js qui s'occupe de les process afin de sortir la réponse qu'il faut
 
+### TP10
+
+- J'ai prédit :
+- Nous avons fait :
+- J'ai observé :
+- J'ai compris :
+- Je n'ai pas compris :
+- Réponse à la question « Dans le suivi » du TP :
+
 ## Épreuve de l'explication (TP12)
 
 - Ce que je n'ai pas su expliquer :
