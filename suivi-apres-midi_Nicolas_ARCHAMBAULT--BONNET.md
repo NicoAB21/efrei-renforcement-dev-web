@@ -37,6 +37,15 @@ Recopiez ce bloc autant de fois que nécessaire.
 - Je n'ai pas compris : rien que je n'ai pas compris
 - Réponse à la question « Dans le suivi » du TP : je crois que on ne peut pas utiliser document dans le code qui tourne sur le serveur car sinon il faudrait que le serveur ait accès tout le temps à tout le contenu du navigateur de l'user
 
+### TP09
+
+- J'ai prédit : que la solution de sauvegardé les messages dans un tableau comme dans le sujet est utile pour un petit projet mais dans la réalité il ne faudrait surtout pas faire ça
+- Nous avons fait : la séparation des logiques dans les différents fichier js
+- J'ai observé : que si on oublie d'autorisé le fichier view.js dans la liste blanche alors ça ne fonctionne pas
+- J'ai compris : qu'il faut bien séparer les logique métier pour être propre dans son code
+- Je n'ai pas compris : rien
+- Réponse à la question « Dans le suivi » du TP : chaque fichier js à des fonctionnalités bien propre à eux : brain est le fichier où se passe toute la "réflexion" de l'IA, view permet d'afficher des datas àl'user et app permet de faire le lien entre les deux et de tout coordonnées
+
 ## Épreuve de l'explication (TP12)
 
 - Ce que je n'ai pas su expliquer :

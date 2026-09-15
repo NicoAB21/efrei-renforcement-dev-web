@@ -37,6 +37,15 @@ Recopiez ce bloc autant de fois que nécessaire.
 - Je n'ai pas compris : rien que je n'ai pas compris
 - Réponse à la question « Dans le suivi » du TP : document est utilisable seulement dans le navigateur
 
+### TP09
+
+- J'ai prédit : je pense qu'on va juste déplacer du code et que rien ne va changer à l'écran
+- Nous avons fait : on a créé view.js avec renderMessages, mis les messages dans un tableau historique et enlevé les createElement de app.js
+- J'ai observé : au début rien ne s'affichait plus, on avait oublié d'ajouter view.js dans la liste blanche du serveur, après redémarrage c'est reparti
+- J'ai compris : que replaceChildren réaffiche tout le tableau à chaque fois au lieu d'ajouter juste le dernier message
+- Je n'ai pas compris : pourquoi on refait tout l'affichage à chaque message au lieu d'ajouter seulement le nouveau
+- Réponse à la question « Dans le suivi » du TP : view.js permet d'afficher les données en hmtml, app.js permet de récupérer les données inscrites par l'utilisateur pour les donner à brain.js qui s'occupe de les process afin de sortir la réponse qu'il faut
+
 ## Épreuve de l'explication (TP12)
 
 - Ce que je n'ai pas su expliquer :
