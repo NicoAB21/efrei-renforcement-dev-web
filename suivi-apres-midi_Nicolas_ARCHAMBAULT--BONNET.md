@@ -46,6 +46,15 @@ Recopiez ce bloc autant de fois que nécessaire.
 - Je n'ai pas compris : rien
 - Réponse à la question « Dans le suivi » du TP : chaque fichier js à des fonctionnalités bien propre à eux : brain est le fichier où se passe toute la "réflexion" de l'IA, view permet d'afficher des datas àl'user et app permet de faire le lien entre les deux et de tout coordonnées
 
+### TP10
+
+- J'ai prédit : si on passe tout les messages dans localStorage alors si on refresh la page les messages pourront toujours être affichés
+- Nous avons fait : le stockage de tout les messages dans le localStorage et on affiche ce localStorage
+- J'ai observé :
+- J'ai compris :
+- Je n'ai pas compris :
+- Réponse à la question « Dans le suivi » du TP :
+
 ## Épreuve de l'explication (TP12)
 
 - Ce que je n'ai pas su expliquer :
